@@ -13,6 +13,8 @@ rests the foundations of the United States of America.
  - Hospitals Per County
  - Ambulances Per County
  - Local Law Enforcement Per County
+ - Prison Population Per County
+ - Guns Per Capita
  - Should be able to view state totals as well
 
 ## Want to add to the svg
