@@ -4,7 +4,7 @@
 statistics relating to the socio-political continuum on which rests the
 foundations of the United States of America.
 
-## Stats intended to be catalogued
+## Stats intended to be catalogued (incomplete)
  - County Population
  - County Area
  - County Population Density
