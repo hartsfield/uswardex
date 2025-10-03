@@ -1,6 +1,6 @@
 # USWARDEX
 
-USWARDEX is a war index, which is a service which catalogues county-level
+**USWARDEX** is a war index, which is a service which catalogues county-level
 statistics relating to the socio-political continuum on which rests the
 foundations of the United States of America.
 
