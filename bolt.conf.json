@@ -1,0 +1,23 @@
+{
+  "app": {
+    "name": "wardex",
+    "command": "",
+    "domain_name": "",
+    "version": "0.01",
+    "env": {},
+    "port": "10714",
+    "alertsOn": true,
+    "tls_enabled": true,
+    "repo": ""
+  },
+  "gcloud": {
+    "command": "gcloud",
+    "zone": "us-central1-a",
+    "project": "mysterygift",
+    "user": "john",
+    "livedir": "/home/john/live/",
+    "instance": "main",
+    "proxy_home": "/home/john/bp/",
+    "proxyConf": ""
+  }
+}

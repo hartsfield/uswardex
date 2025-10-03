@@ -1,0 +1,41 @@
+/*path {fill:#d0d0d0;stroke:#000;stroke-width:.17829;}*/
+#borders {fill:none;stroke:#221e1f;stroke-width:.89143;}
+#separatorAK-HI {fill:none;stroke:#a9a9a9;stroke-width:2.3177309;}
+
+.map-outer {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-items: center;
+        justify-content: space-evenly;
+        height: 100vh;
+}
+
+#borders {
+        stroke: #9cbb16;
+}
+path {
+        /*fill: #f0f9e1;*/
+        stroke: #324b00;
+        stroke-width:.17829;
+}
+
+path:hover {
+        fill: #dbafdb;
+}
+
+.logo {
+        font-size: 2em;
+        font-weight: bold;
+}
+.info {
+        position: absolute;
+        top: 1em;
+        left: 1em;
+        font-family: monospace;
+        color: #e29e5c;
+}
+.info-name {
+        color: black;
+        text-decoration: underline;
+}
