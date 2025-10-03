@@ -19,6 +19,7 @@ rests the foundations of the United States of America.
 
 ## Want to add to the svg
  - Important bridges
+ - Train tracks
  - Major rivers/bodies of water
  - Interstates and other important roads
  - Maybe do a weather radar overlay
