@@ -19,5 +19,8 @@ body, html {
   flex-direction: column;
   flex-wrap: nowrap;
 }
+body {
+    /*background: #d8faf7;*/
+}
 @media screen and (orientation:portrait) {}
 @media screen and (orientation:landscape) {}
