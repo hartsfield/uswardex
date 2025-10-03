@@ -1,8 +1,8 @@
 # USWARDEX
 
-**USWARDEX** is a war index, which is a service which catalogues county-level
-statistics relating to the socio-political continuum on which rests the
-foundations of the United States of America.
+**USWARDEX** is a war index, which is a service which keeps updated catalogues of 
+county-level statistics relating to the socio-political continuum on which 
+rests the foundations of the United States of America.
 
 ## Stats intended to be catalogued (incomplete)
  - County Population
@@ -21,5 +21,11 @@ foundations of the United States of America.
  - Interstates and other important roads
  - Maybe do a weather radar overlay
  - Maybe Military/Gov flight tracker
+
+## More Features
+ - Allow user signup/login
+ - Allow users to add data
+ - Allow users to add news articles to locations, allowing for USWARDEX to be
+ used as a type of link aggregator as well
 
 [rec.webm](https://github.com/user-attachments/assets/55be6864-c84c-400d-b723-418f6f6bba24)
